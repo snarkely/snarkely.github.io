@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Testing 884"
+  name   : "Kelli"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Just making sure this bio updates"
+  bio    : "Unique Quilter"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
