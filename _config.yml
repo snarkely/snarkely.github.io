@@ -107,7 +107,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+      
+collections:
+  recipes:
+    output: true
+    
 category_archive:
   type: liquid
   path: /categories/
