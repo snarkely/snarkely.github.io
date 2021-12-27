@@ -56,7 +56,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-recipe
+  
 author:
   name   : "Kelli"
   avatar : "/assets/images/bio-photo.jpg"
