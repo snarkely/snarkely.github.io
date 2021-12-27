@@ -14,5 +14,4 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
-  gem 'jekyll-recipe', git: 'https://github.com/gildesmarais/jekyll-recipe', branch: 'main'
 end
