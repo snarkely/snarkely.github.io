@@ -56,7 +56,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-recipe
   
 author:
   name   : "Kelli"
@@ -107,15 +106,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: "recipes"
-    values:
-      layout: "recipe"
-      
-collections:
-  recipes:
-    output: true
     
 category_archive:
   type: liquid
