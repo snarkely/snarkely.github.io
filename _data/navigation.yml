@@ -1,8 +1,8 @@
 main:
   - title: "Quilts"
     url: /quilts/
-  - title: "Recipies"
-    url: /recipies/
+  - title: "Recipes"
+    url: /recipes/
   - title: "Tags"
     url: /tags/
   - title: "About"
