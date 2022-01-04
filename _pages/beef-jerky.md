@@ -1,4 +1,14 @@
+---
+title: "Beef Jerky"
+date: 2022-01-4T05:34:30-06:00
+categories:
+  - recipes
+tags:
+  - recipes
+---
+
 ## Beef Jerky
+
 This is a modification of my uncle Geno’s beef jerky recipe. Always a crowd favorite.
 
 * 5 lb lean ground beef (90% or better)
