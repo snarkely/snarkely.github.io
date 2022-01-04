@@ -1,6 +1,6 @@
 ---
 title: "Beef Jerky"
-date: 2022-01-4T05:34:30-04:00
+date: 2022-01-4T05:34:30-06:00
 categories:
   - recipes
 tags:
