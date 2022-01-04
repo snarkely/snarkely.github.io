@@ -111,7 +111,7 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:name/
-    layout: "recipe"
+#    layout: "recipe"
     
 category_archive:
   type: liquid
